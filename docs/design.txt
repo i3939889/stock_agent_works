@@ -2,3 +2,4 @@
 1. 每日收盤資料收集 config目錄 有個 us_stock.csv 裡面有股票代號
 在scripts目錄新增一個python scripts 為每個在us_stock.csv內的股票收集日線資訊 預設回推到2025/01/01
 
+2. 新增一個script 計算每個在data內價格csv的技術指標 包含MA(10,20,55) ATR MACD
