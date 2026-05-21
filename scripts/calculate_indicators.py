@@ -49,7 +49,14 @@ def calculate_indicators(data_dir='data/', output_dir='data/processed/'):
         # ATR using SMA as requested
         df['ATR'] = df['TR'].rolling(window=14).mean()
         
-        # Cleanup temporary columns
+        # 4. RSI (14)
+        delta = df['Close'].diff()
+        gain = (delta.where(delta > 0, 0)).rolling(window=14).mean()
+        loss = (-delta.where(delta < 0, 0)).rolling(window=14).mean()
+        rs = gain / loss
+        df['RSI'] = 100 - (100 / (1 + rs))
+        
+        # 5. Cleanup temporary columns
         df.drop(columns=['prev_close', 'tr1', 'tr2', 'tr3', 'TR'], inplace=True)
         
         # Save to processed directory
