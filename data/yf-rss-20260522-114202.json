@@ -1,0 +1,349 @@
+{
+  "fetched_at": "2026-05-22T03:42:02.036457+00:00",
+  "source_url": "https://finance.yahoo.com/news/rssindex",
+  "feed": {
+    "title": "Yahoo Finance",
+    "link": "https://finance.yahoo.com/",
+    "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+    "language": "en-US",
+    "last_build_date": null,
+    "items": [
+      {
+        "title": "How soaring 30-year Treasury yields could impact your finances",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/how-soaring-30-year-treasury-yields-could-impact-your-finances-141336810.html",
+        "guid": "how-soaring-30-year-treasury-yields-could-impact-your-finances-141336810.html",
+        "description": null,
+        "pub_date": "2026-05-19T14:13:36Z",
+        "source": "Yahoo Personal Finance"
+      },
+      {
+        "title": "Do you pay taxes on money market accounts? How to know what you might owe.",
+        "link": "https://finance.yahoo.com/news/do-you-pay-taxes-on-money-market-accounts-142830424.html",
+        "guid": "do-you-pay-taxes-on-money-market-accounts-142830424.html",
+        "description": null,
+        "pub_date": "2026-05-20T14:28:30Z",
+        "source": "Yahoo Personal Finance"
+      },
+      {
+        "title": "AllianceBernstein, Brookfield, Carlyle Team Up on Private Markets Push for DC Plans",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/alliancebernstein-brookfield-carlyle-team-private-153956484.html",
+        "guid": "alliancebernstein-brookfield-carlyle-team-private-153956484.html",
+        "description": null,
+        "pub_date": "2026-05-20T15:39:56Z",
+        "source": "Wealth Management"
+      },
+      {
+        "title": "Crude Oil Prices Tumble on Hopes the Iran War Could Soon End",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-tumble-hopes-154101572.html",
+        "guid": "crude-oil-prices-tumble-hopes-154101572.html",
+        "description": null,
+        "pub_date": "2026-05-20T15:41:01Z",
+        "source": "Barchart"
+      },
+      {
+        "title": "Ubisoft flags more losses after record hit",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ubisoft-flags-more-losses-record-154654994.html",
+        "guid": "ubisoft-flags-more-losses-record-154654994.html",
+        "description": null,
+        "pub_date": "2026-05-20T15:46:54Z",
+        "source": "Reuters"
+      },
+      {
+        "title": "Meta CEO tells employees he does not expect more company-wide layoffs this year",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-meta-ceo-tells-employees-154858509.html",
+        "guid": "exclusive-meta-ceo-tells-employees-154858509.html",
+        "description": null,
+        "pub_date": "2026-05-20T15:48:58Z",
+        "source": "Reuters"
+      },
+      {
+        "title": "Are Wall Street Analysts Bullish on CoStar Group Stock?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-costar-155243910.html",
+        "guid": "wall-street-analysts-bullish-costar-155243910.html",
+        "description": null,
+        "pub_date": "2026-05-20T15:52:43Z",
+        "source": "Barchart"
+      },
+      {
+        "title": "Stocks to Watch: Nvidia, AMC, Target, Micron",
+        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/stocks-to-watch-nvidia-amc-target-cTPX1NQTKQ7y3B6ZgLyk?siteid=yhoof2&yptr=yahoo",
+        "guid": "stocks-to-watch-nvidia-amc-target-cTPX1NQTKQ7y3B6ZgLyk?siteid=yhoof2&yptr=yahoo",
+        "description": null,
+        "pub_date": "2026-05-20T15:42:23Z",
+        "source": "The Wall Street Journal"
+      },
+      {
+        "title": "All Hail Cava, The Slop Bowl King",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/hail-cava-slop-bowl-king-155448949.html",
+        "guid": "hail-cava-slop-bowl-king-155448949.html",
+        "description": null,
+        "pub_date": "2026-05-20T15:54:48Z",
+        "source": "Moby"
+      },
+      {
+        "title": "Amazon.com defeats appeal claiming it aided tariff evasion",
+        "link": "https://finance.yahoo.com/economy/policy/articles/amazon-com-defeats-appeal-claiming-153200477.html",
+        "guid": "amazon-com-defeats-appeal-claiming-153200477.html",
+        "description": null,
+        "pub_date": "2026-05-20T15:55:39Z",
+        "source": "Reuters"
+      },
+      {
+        "title": "Walmart Stock Looks Quite Risky Heading Into Q1 Results",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-looks-quite-risky-160002693.html",
+        "guid": "walmart-stock-looks-quite-risky-160002693.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:00:02Z",
+        "source": "Barchart"
+      },
+      {
+        "title": "Securitize Revenue Rises 39% Ahead of Planned Cantor SPAC Deal",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/securitize-revenue-rises-39-ahead-160200756.html",
+        "guid": "securitize-revenue-rises-39-ahead-160200756.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:02:00Z",
+        "source": "CryptoProwl"
+      },
+      {
+        "title": "Target TGT Q1 2026 Earnings Call Transcript",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-tgt-q1-2026-earnings-154438931.html",
+        "guid": "target-tgt-q1-2026-earnings-154438931.html",
+        "description": null,
+        "pub_date": "2026-05-20T15:44:38Z",
+        "source": "Motley Fool"
+      },
+      {
+        "title": "Up 110% YTD, Why Nvidia’s Backing Could Keep Nokia Stock Rallying",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/110-ytd-why-nvidia-backing-160509720.html",
+        "guid": "110-ytd-why-nvidia-backing-160509720.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:05:09Z",
+        "source": "Barchart"
+      },
+      {
+        "title": "SOL Strategies: Darklake & Houdini Add Middleware Monetization, Staking Scale Nears 768k SOL – Quarterly Update Report",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/sol-strategies-darklake-houdini-add-160807534.html",
+        "guid": "sol-strategies-darklake-houdini-add-160807534.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:08:07Z",
+        "source": "Exec Edge"
+      },
+      {
+        "title": "Beyond Oil: US Foodservice Adoption Drives Shift to Revenue Execution – Quarterly Update Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-oil-us-foodservice-adoption-160940219.html",
+        "guid": "beyond-oil-us-foodservice-adoption-160940219.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:09:40Z",
+        "source": "Exec Edge"
+      },
+      {
+        "title": "Cava Stock Looks Spicier But Undercooked After Earnings Beat",
+        "link": "https://www.investors.com/news/cava-stock-looks-spicier-but-undercooked-after-earnings-beat/?src=A00220&yptr=yahoo",
+        "guid": "?src=A00220&yptr=yahoo",
+        "description": null,
+        "pub_date": "2026-05-20T16:12:16Z",
+        "source": "Investor's Business Daily"
+      },
+      {
+        "title": "VEU Quietly Outperformed ACWX in Every Time Period and Nobody Noticed",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/veu-quietly-outperformed-acwx-every-154530991.html",
+        "guid": "veu-quietly-outperformed-acwx-every-154530991.html",
+        "description": null,
+        "pub_date": "2026-05-20T15:45:30Z",
+        "source": "24/7 Wall St."
+      },
+      {
+        "title": "Mercury hits $5.2 billion valuation as fintech firm banks on AI startups",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/mercury-hits-5-2-billion-161349311.html",
+        "guid": "mercury-hits-5-2-billion-161349311.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:13:49Z",
+        "source": "Reuters"
+      },
+      {
+        "title": "xAI owes employees $420 each for providing their tax returns to train Grok — 2 months later, no one has been paid",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/xai-owes-employees-420-providing-161500811.html",
+        "guid": "xai-owes-employees-420-providing-161500811.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:15:00Z",
+        "source": "Moneywise"
+      },
+      {
+        "title": "Why Wall Street Is Thirsty For Coke Stock — Beyond Just A New CEO",
+        "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/coke-stock-coca-cola-co-ceo-henrique-braun/?src=A00220&yptr=yahoo",
+        "guid": "?src=A00220&yptr=yahoo",
+        "description": null,
+        "pub_date": "2026-05-20T16:15:23Z",
+        "source": "Investor's Business Daily"
+      },
+      {
+        "title": "Three Oil Stocks Circle Buy Points With Crude Prices High",
+        "link": "https://www.investors.com/news/oil-stocks-valero-refiners-crude-oil-prices/?src=A00220&yptr=yahoo",
+        "guid": "?src=A00220&yptr=yahoo",
+        "description": null,
+        "pub_date": "2026-05-20T16:20:23Z",
+        "source": "Investor's Business Daily"
+      },
+      {
+        "title": "A Retiree Says Managing Their Money In Retirement Is Getting Complex With Medicare, IRMAA, Roth Conversions, Social Security And Annuities",
+        "link": "https://finance.yahoo.com/markets/options/articles/retiree-says-managing-money-retirement-154607186.html",
+        "guid": "retiree-says-managing-money-retirement-154607186.html",
+        "description": null,
+        "pub_date": "2026-05-20T15:46:07Z",
+        "source": "Benzinga"
+      },
+      {
+        "title": "Kansas couple with a baby on the way lost $8K to scammers — yet Ramsey Show hosts say they're in 'amazing shape'",
+        "link": "https://finance.yahoo.com/markets/articles/kansas-couple-baby-way-lost-162500813.html",
+        "guid": "kansas-couple-baby-way-lost-162500813.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:25:00Z",
+        "source": "Moneywise"
+      },
+      {
+        "title": "Up 153% YTD, Here's Why Micron Stock Is Already My 2026 Winner",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/153-ytd-heres-why-micron-162555985.html",
+        "guid": "153-ytd-heres-why-micron-162555985.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:25:55Z",
+        "source": "Barchart"
+      },
+      {
+        "title": "Hull Street Energy Scales Hydro Footprint With Acquisition of FirstLight USA",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/hull-street-energy-scales-hydro-162633427.html",
+        "guid": "hull-street-energy-scales-hydro-162633427.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:26:33Z",
+        "source": "POWER Magazine"
+      },
+      {
+        "title": "Is Wall Street Bullish or Bearish on Steel Dynamics Stock?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-steel-162829930.html",
+        "guid": "wall-street-bullish-bearish-steel-162829930.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:28:29Z",
+        "source": "Barchart"
+      },
+      {
+        "title": "For 60 Years Buffett Avoided Big Tech. Greg Abel Just Made an AI Stock a Top-5 Berkshire Holding",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/60-years-buffett-avoided-big-154535529.html",
+        "guid": "60-years-buffett-avoided-big-154535529.html",
+        "description": null,
+        "pub_date": "2026-05-20T15:45:35Z",
+        "source": "24/7 Wall St."
+      },
+      {
+        "title": "'A sleeper issue': Millions could get COVID-era IRS penalties refunded — but the window to claim them is closing fast",
+        "link": "https://finance.yahoo.com/economy/policy/articles/sleeper-issue-millions-could-covid-163000311.html",
+        "guid": "sleeper-issue-millions-could-covid-163000311.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:30:00Z",
+        "source": "Moneywise"
+      },
+      {
+        "title": "Hyperliquid ETFs Pull In $22.3 Million as THYP Volume Builds",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-etfs-pull-22-3-163500731.html",
+        "guid": "hyperliquid-etfs-pull-22-3-163500731.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:35:00Z",
+        "source": "CryptoProwl"
+      },
+      {
+        "title": "Warren Buffett sits on a record $397B in cash while Michael Burry shorts AI for $1B, betting it's 1999 all over again",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-sits-record-397b-163500220.html",
+        "guid": "warren-buffett-sits-record-397b-163500220.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:35:00Z",
+        "source": "Moneywise"
+      },
+      {
+        "title": "OpenAI aiming for speedy IPO, source says, as market awaits SpaceX filing",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/openai-preparing-file-ipo-coming-163557421.html",
+        "guid": "openai-preparing-file-ipo-coming-163557421.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:35:57Z",
+        "source": "Reuters"
+      },
+      {
+        "title": "Intel shares rise on reports of Tenstorrent acquisition talks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/intel-shares-rise-reports-tenstorrent-154600745.html",
+        "guid": "intel-shares-rise-reports-tenstorrent-154600745.html",
+        "description": null,
+        "pub_date": "2026-05-20T15:46:00Z",
+        "source": "Proactive"
+      },
+      {
+        "title": "When will gas prices go down? Brace for 'most volatile summer at the pump in years.'",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-down-brace-for-most-volatile-summer-at-the-pump-in-years-154506668.html",
+        "guid": "when-will-gas-prices-go-down-brace-for-most-volatile-summer-at-the-pump-in-years-154506668.html",
+        "description": null,
+        "pub_date": "2026-04-14T15:45:06Z",
+        "source": "Yahoo Personal Finance"
+      },
+      {
+        "title": "Neurocrine Biosciences Hits New Highs On Earnings Surge",
+        "link": "https://www.investors.com/research/biotech-neurocrine-biosciences-nbix-stock/?src=A00220&yptr=yahoo",
+        "guid": "?src=A00220&yptr=yahoo",
+        "description": null,
+        "pub_date": "2026-05-20T16:39:44Z",
+        "source": "Investor's Business Daily"
+      },
+      {
+        "title": "Oracle Stock: 'Light At The End Of The Tunnel' Seen For Big AI Spending",
+        "link": "https://www.investors.com/news/technology/oracle-stock-ai-spending-estimates/?src=A00220&yptr=yahoo",
+        "guid": "?src=A00220&yptr=yahoo",
+        "description": null,
+        "pub_date": "2026-05-20T16:39:43Z",
+        "source": "Investor's Business Daily"
+      },
+      {
+        "title": "Evogene Ltd. Q1 2026 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/evogene-ltd-q1-2026-earnings-164326767.html",
+        "guid": "evogene-ltd-q1-2026-earnings-164326767.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:43:26Z",
+        "source": "Moby"
+      },
+      {
+        "title": "The Dow Is Up 500 Points. Goldman and Boeing Are Big Gainers.",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-052026/card/the-dow-is-up-500-points-goldman-and-boeing-are-big-gainers--TbXgtkdFD1QpVsQWvDIM?siteid=yhoof2&yptr=yahoo",
+        "guid": "the-dow-is-up-500-points-goldman-and-boeing-are-big-gainers--TbXgtkdFD1QpVsQWvDIM?siteid=yhoof2&yptr=yahoo",
+        "description": null,
+        "pub_date": "2026-05-20T15:47:16Z",
+        "source": "Barrons.com"
+      },
+      {
+        "title": "Arcos Dorados Holdings Inc. Q1 2026 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/arcos-dorados-holdings-inc-q1-164322545.html",
+        "guid": "arcos-dorados-holdings-inc-q1-164322545.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:43:22Z",
+        "source": "Moby"
+      },
+      {
+        "title": "Analog Devices, Inc. Q2 2026 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-inc-q2-2026-164606619.html",
+        "guid": "analog-devices-inc-q2-2026-164606619.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:46:06Z",
+        "source": "Moby"
+      },
+      {
+        "title": "The TJX Companies, Inc. Q1 2027 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-inc-q1-2027-164618675.html",
+        "guid": "tjx-companies-inc-q1-2027-164618675.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:46:18Z",
+        "source": "Moby"
+      },
+      {
+        "title": "Authentic Brands Is Finally Going Public",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/authentic-brands-finally-going-public-164715868.html",
+        "guid": "authentic-brands-finally-going-public-164715868.html",
+        "description": null,
+        "pub_date": "2026-05-20T16:47:15Z",
+        "source": "Moby"
+      }
+    ]
+  }
+}
